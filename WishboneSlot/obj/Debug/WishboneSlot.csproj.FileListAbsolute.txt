@@ -24,3 +24,16 @@ C:\Users\thebr\OneDrive\Bureau\Wishbone Slot - Code\WishboneSlot\WishboneSlot\ob
 C:\Users\thebr\OneDrive\Bureau\Wishbone Slot - Code\WishboneSlot\WishboneSlot\obj\Debug\Wishbone.732474B7.Up2Date
 C:\Users\thebr\OneDrive\Bureau\Wishbone Slot - Code\WishboneSlot\WishboneSlot\obj\Debug\WishboneSlot.dll
 C:\Users\thebr\OneDrive\Bureau\Wishbone Slot - Code\WishboneSlot\WishboneSlot\obj\Debug\WishboneSlot.pdb
+C:\Users\thebr\OneDrive\Bureau\Wishbone Slot - Code\WishboneSlot\Brutal_WishboneSlot\WishboneSlot\bin\Debug\WishboneSlot.dll
+C:\Users\thebr\OneDrive\Bureau\Wishbone Slot - Code\WishboneSlot\Brutal_WishboneSlot\WishboneSlot\bin\Debug\WishboneSlot.pdb
+C:\Users\thebr\OneDrive\Bureau\Wishbone Slot - Code\WishboneSlot\Brutal_WishboneSlot\WishboneSlot\bin\Debug\0Harmony.dll
+C:\Users\thebr\OneDrive\Bureau\Wishbone Slot - Code\WishboneSlot\Brutal_WishboneSlot\WishboneSlot\bin\Debug\assembly_valheim.dll
+C:\Users\thebr\OneDrive\Bureau\Wishbone Slot - Code\WishboneSlot\Brutal_WishboneSlot\WishboneSlot\bin\Debug\AzuExtendedPlayerInventoryAPI.dll
+C:\Users\thebr\OneDrive\Bureau\Wishbone Slot - Code\WishboneSlot\Brutal_WishboneSlot\WishboneSlot\bin\Debug\BepInEx.dll
+C:\Users\thebr\OneDrive\Bureau\Wishbone Slot - Code\WishboneSlot\Brutal_WishboneSlot\WishboneSlot\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\thebr\OneDrive\Bureau\Wishbone Slot - Code\WishboneSlot\Brutal_WishboneSlot\WishboneSlot\bin\Debug\UnityEngine.dll
+C:\Users\thebr\OneDrive\Bureau\Wishbone Slot - Code\WishboneSlot\Brutal_WishboneSlot\WishboneSlot\obj\Debug\WishboneSlot.csproj.AssemblyReference.cache
+C:\Users\thebr\OneDrive\Bureau\Wishbone Slot - Code\WishboneSlot\Brutal_WishboneSlot\WishboneSlot\obj\Debug\WishboneSlot.csproj.CoreCompileInputs.cache
+C:\Users\thebr\OneDrive\Bureau\Wishbone Slot - Code\WishboneSlot\Brutal_WishboneSlot\WishboneSlot\obj\Debug\Wishbone.732474B7.Up2Date
+C:\Users\thebr\OneDrive\Bureau\Wishbone Slot - Code\WishboneSlot\Brutal_WishboneSlot\WishboneSlot\obj\Debug\WishboneSlot.dll
+C:\Users\thebr\OneDrive\Bureau\Wishbone Slot - Code\WishboneSlot\Brutal_WishboneSlot\WishboneSlot\obj\Debug\WishboneSlot.pdb
