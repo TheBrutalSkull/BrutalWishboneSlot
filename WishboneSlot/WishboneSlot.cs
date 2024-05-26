@@ -14,14 +14,14 @@ namespace WishboneSlot
     public class WishboneSlot : BaseUnityPlugin
     {
         private readonly Harmony harmony = new Harmony("thebrutalskull.Brutal_WishboneSlot");
-        private static readonly ManualLogSource PELogger;
+        public static readonly ManualLogSource WishboneSlotLogger = BepInEx.Logging.Logger.CreateLogSource("Brutal_WishboneSlot");
 
         void Awake()
         {
-            BepInEx.Logging.Logger.Sources.Add(PELogger);
+            
             if(SystemInfo.graphicsDeviceType == GraphicsDeviceType.Null)
             {
-                Dbgl("This mod is client-side only and is not needed on a dedicated server. Plugin patches will not be applied.", true, LogLevel.Warning);
+                WishboneSlotLogger.LogWarning("This mod is client-side only and is not needed on a dedicated server. Plugin patches will not be applied.");
                 return;
             }
 
@@ -43,32 +43,6 @@ namespace WishboneSlot
         private bool isWishbone(ItemDrop.ItemData item) 
         {
             return item != null && item.m_dropPrefab && item.m_dropPrefab.name is "Wishbone";
-        }
-
-        //Logger Tool
-        internal static void Dbgl(string message, bool forceLog = false, LogLevel level = LogLevel.Info)
-        {
-            if (forceLog)
-            {
-                switch (level)
-                {
-                    case LogLevel.Error:
-                        PELogger.LogError(message); 
-                        break;
-                    case LogLevel.Warning:
-                        PELogger.LogWarning(message); 
-                        break;
-                    case LogLevel.Info:
-                        PELogger.LogInfo(message); 
-                        break;
-                    case LogLevel.Message:
-                        PELogger.LogMessage(message); 
-                        break;
-                    case LogLevel.Debug:
-                        PELogger.LogDebug(message);
-                        break;
-                }
-            }
         }
     }
 }
