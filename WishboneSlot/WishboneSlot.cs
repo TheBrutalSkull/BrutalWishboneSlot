@@ -9,8 +9,8 @@ using UnityEngine.Rendering;
 
 namespace WishboneSlot
 {
-    [BepInPlugin("thebrutalskull.Brutal_WishboneSlot", "Brutal_WishboneSlot", "1.0.1")]
-    [BepInDependency("Azumatt.AzuExtendedPlayerInventory", BepInDependency.DependencyFlags.SoftDependency)]
+    [BepInPlugin("thebrutalskull.Brutal_WishboneSlot", "Brutal_WishboneSlot", "1.0.2")]
+    [BepInDependency("Azumatt.AzuExtendedPlayerInventory", BepInDependency.DependencyFlags.HardDependency)]
     public class WishboneSlot : BaseUnityPlugin
     {
         private readonly Harmony harmony = new Harmony("thebrutalskull.Brutal_WishboneSlot");
